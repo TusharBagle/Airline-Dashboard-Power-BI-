@@ -1,5 +1,3 @@
-# Airline Dashboard (Power BI)
-
 # ✈️ Airline Dashboard - Power BI Project
 
 ## 📌 Project Overview
@@ -33,9 +31,17 @@ Provides a high-level overview of airline performance.
 * Flight Status Distribution
 * Interactive Slicers
 
+### Dashboard Preview
+
+<p align="center">
+  <img width="100%" src="https://github.com/TusharBagle/Airline-Dashboard-Power-BI-/blob/main/Main%20Airline%20Dashboard.png?raw=true">
+</p>
+
 ### Business Insight
 
 Allows management to quickly understand the overall health and performance of airline operations.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0A66C2"/>
 
 ---
 
@@ -53,9 +59,17 @@ Analyze flight routes and their performance.
 * Flight Frequency
 * Origin vs Destination Analysis
 
+### Dashboard Preview
+
+<p align="center">
+  <img width="100%" src="https://github.com/TusharBagle/Airline-Dashboard-Power-BI-/blob/main/Route%20Analysis%20Dashboard.png?raw=true">
+</p>
+
 ### Business Insight
 
 Identifies the most profitable and busiest routes while highlighting underperforming ones.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0A66C2"/>
 
 ---
 
@@ -73,9 +87,17 @@ Understand flight delays and their causes.
 * Delay Categories
 * Monthly Delay Trend
 
+### Dashboard Preview
+
+<p align="center">
+  <img width="100%" src="https://github.com/TusharBagle/Airline-Dashboard-Power-BI-/blob/main/Delay%20Analysis%20Dasboard.png?raw=true">
+</p>
+
 ### Business Insight
 
 Helps improve operational efficiency by identifying major delay patterns.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0A66C2"/>
 
 ---
 
@@ -93,9 +115,17 @@ Evaluate airport performance.
 * Airport Ranking
 * Flight Distribution
 
+### Dashboard Preview
+
+<p align="center">
+  <img width="100%" src="https://github.com/TusharBagle/Airline-Dashboard-Power-BI-/blob/main/Airport%20Analysis%20Dashboard.png?raw=true">
+</p>
+
 ### Business Insight
 
 Determines which airports perform efficiently and which require operational improvements.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0A66C2"/>
 
 ---
 
@@ -113,9 +143,17 @@ Compare airline performance across multiple metrics.
 * Cancellation Comparison
 * Delay Comparison
 
+### Dashboard Preview
+
+<p align="center">
+  <img width="100%" src="https://github.com/TusharBagle/Airline-Dashboard-Power-BI-/blob/main/Airline%20Analysis%20Dashboard.png?raw=true">
+</p>
+
 ### Business Insight
 
 Provides a comprehensive comparison between airlines for performance evaluation.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0A66C2"/>
 
 ---
 
@@ -133,9 +171,17 @@ Analyze airline operations across different time dimensions.
 * Seasonal Trends
 * Peak Travel Periods
 
+### Dashboard Preview
+
+<p align="center">
+  <img width="100%" src="https://github.com/TusharBagle/Airline-Dashboard-Power-BI-/blob/main/Time%20Analysis%20Dashboard.png?raw=true">
+</p>
+
 ### Business Insight
 
 Identifies travel patterns and peak operating hours for better resource planning.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0A66C2"/>
 
 ---
 
@@ -153,9 +199,17 @@ Understand passenger distribution and travel behavior.
 * Travel Trends
 * Passenger Distribution
 
+### Dashboard Preview
+
+<p align="center">
+  <img width="100%" src="https://github.com/TusharBagle/Airline-Dashboard-Power-BI-/blob/main/Passenger%20Analysis%20Dashboard.png?raw=true">
+</p>
+
 ### Business Insight
 
 Supports customer-focused planning and demand forecasting.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0A66C2"/>
 
 ---
 
@@ -173,9 +227,17 @@ Analyze aircraft utilization and operational efficiency.
 * Fleet Distribution
 * Aircraft Comparison
 
+### Dashboard Preview
+
+<p align="center">
+  <img width="100%" src="https://github.com/TusharBagle/Airline-Dashboard-Power-BI-/blob/main/Aircraft%20Analysis%20Dashboard.png?raw=true">
+</p>
+
 ### Business Insight
 
 Optimizes fleet management and aircraft allocation.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0A66C2"/>
 
 ---
 
@@ -193,9 +255,17 @@ Evaluate cancelled flights and their impact.
 * Cancellation by Airport
 * Monthly Cancellation Analysis
 
+### Dashboard Preview
+
+<p align="center">
+  <img width="100%" src="https://github.com/TusharBagle/Airline-Dashboard-Power-BI-/blob/main/Flight%20Cancellation%20%20Analysis%20Dashboard.png?raw=true">
+</p>
+
 ### Business Insight
 
 Helps identify recurring operational issues and minimize future cancellations.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0A66C2"/>
 
 ---
 
@@ -230,4 +300,4 @@ To build a comprehensive Airline Analytics Dashboard that enables stakeholders t
 
 **Tushar Bagle**
 
-Power BI | Data Analytics | Business Intelligence
+**Power BI | Data Analytics | Business Intelligence**
